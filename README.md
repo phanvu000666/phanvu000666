@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phan Hoang Vu, I’m a developer.
-- 👀 I’m interested in HTML,CSS
+- 👀 I’m interested in HTML,CSS,JS,PHP,JAVA,REACTJS,...
 - 🌱 I’m currently learning at THU DUC TECHNOLOGY COLLEGES
 - 💞️ I’m looking to collaborate on github
 - 📫 phanvu000666@gmail.com
